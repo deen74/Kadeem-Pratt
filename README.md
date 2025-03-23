@@ -58,7 +58,7 @@ Hey, I'm a passionate and hardworking cybersecurity professional, who is just st
 ## 📫 Contact Me
 
 - **Email**: Kadeempratt7@gmail.com
-- **LinkedIn**: <https://www.linkedin.com/in/kadeem-pratt-31266b103/> 
+- **LinkedIn**: <a href="https://www.linkedin.com/in/kadeem-pratt-31266b103/"> 
 - **Portfolio**: [Your Portfolio Website]
 - **GitHub**: [Your GitHub Profile]
 
