@@ -1,5 +1,5 @@
 # Kadeem-Pratt
-Hey, I'm a passionate and hardworking cybersecurity professional, who is just starting this job field, but bring a diverse background from eletical system, softwere , programing and quality contorl. I'm actively seeking opportunities to contribute to innovative and security-focused organizations.
+Hey, I'm a passionate and hardworking cybersecurity beginner, who is just starting this job field, but bring a diverse background from eletical system, softwere , programing and quality contorl. I'm actively seeking opportunities to contribute to innovative and security-focused organizations.
 
 ## 🛠️ Technical Skills
 
@@ -58,7 +58,7 @@ Hey, I'm a passionate and hardworking cybersecurity professional, who is just st
 ## 📫 Contact Me
 
 - **Email**: Kadeempratt7@gmail.com
-- **LinkedIn**: <a href="https://www.linkedin.com/in/kadeem-pratt-31266b103/"> 
+- **LinkedIn**: <"https://www.linkedin.com/in/kadeem-pratt-31266b103/"> 
 - **Portfolio**: [Your Portfolio Website]
 - **GitHub**: [Your GitHub Profile]
 
